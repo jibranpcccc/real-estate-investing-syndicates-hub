@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Real Estate Syndication &amp; Cash Flow Hub</title>
+    <link>https://real-estate-investing-syndicates-hub.netlify.app/</link>
+    <description>Verified community directory and updates.</description>
+    <lastBuildDate>Thu, 10 Sep 2026 11:02:28 GMT</lastBuildDate>
+    <atom:link href="https://real-estate-investing-syndicates-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>Real Estate Syndication &amp; Cash Flow Hub Initial Release</title>
+      <link>https://real-estate-investing-syndicates-hub.netlify.app/</link>
+      <pubDate>Thu, 10 Sep 2026 11:02:28 GMT</pubDate>
+      <description>Initial collection of verified communities published.</description>
+    </item>
+  </channel>
+</rss>
